@@ -1,0 +1,9 @@
+html {
+    margin: auto;
+    width: 60%;
+    background-image: url(https://geology.com/store/wall-maps/world-physical-map-lg.jpg);
+}
+
+#timer-container {
+    font-size: 24px;
+}
