@@ -1,4 +1,4 @@
-# TriviaGame
+# Trivia Game
 
 
 A simple Geography Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 
