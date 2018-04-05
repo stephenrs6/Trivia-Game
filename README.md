@@ -1,7 +1,7 @@
 # TriviaGame
 
 
-A simple Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 
+A simple Geography Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 
 
 
 * Multiple choice questionnaire 
